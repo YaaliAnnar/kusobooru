@@ -1,0 +1,12 @@
+body { padding-top: 70px; }
+
+.current-page{
+	background-color: black;
+	color: white;
+	padding: 5px;
+}
+
+.paging a{
+	padding-left: 5px;
+	padding-right: 5px;
+}
